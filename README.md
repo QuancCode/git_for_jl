@@ -1,7 +1,10 @@
 # git_for_jl
-### Mark for personal message
+## Mark for personal message
   Name：qc <br>
   job ：student <br>
   sex ：man <br>
-### My Photo
-![image](https://github.com/xxx/xxx/blob/master/xxx/xxx.png)
+## My Photo
+### Photo1
+![image](https://github.com/QuancCode/git_for_jl/tree/main/Photo/untitled.png)
+### Photo2
+![image](https://github.com/QuancCode/git_for_jl/tree/main/Photo/untitled1.png)
